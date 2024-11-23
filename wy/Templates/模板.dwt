@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>模板</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body {
+    background-color: #FFD991;
+}
+body,td,th {
+    color: #000000;
+}
+a:link {
+    color: #000000;
+}
+a:visited {
+    color: #000000;
+}
+a:hover {
+    color: #00D3FF;
+}
+a:active {
+    color: #00D3FF;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<a href="file:///C|/Users/yanho/Desktop/未命名站点 2"></a>
+</body>
+</html>
